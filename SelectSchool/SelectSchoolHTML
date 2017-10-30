@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Select School</title>
+	<meta name="generator" content="BBEdit 11.6" />
+	<link href="SelectSchool.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+	<p>
+	<div class = "title">
+		SELECT YOUR SCHOOL
+	</div>
+	</p>
+	<div class = "Schools">
+		<div class = "Auburn" onclick = "/*link*/">
+				AUBURN
+			</div>
+		<div class = "Alabama" onclick = "/*link*/">
+				ALABAMA
+			</div>
+		<div class = "Arizona" onclick = "/*link*/">
+				ARIZONA
+			</div>
+		<div class = "ArizonaState" onclick = "/*link*/">
+				ARIZONA STATE
+			</div>
+		<div class = "Arkansas" onclick = "/*link*/">
+				ARKANSAS
+			</div>
+		<div class = "Ball" onclick = "/*link*/">
+				BALL STATE
+			</div>
+		<div class = "Baylor" onclick = "/*link*/">
+				BAYLOR
+			</div>
+		<div class = "BYU" onclick = "/*link*/">
+				BYU
+			</div>
+		<div class = "California" onclick = "/*link*/">
+				CALIFORNIA
+			</div>
+		<div class = "Clark" onclick = "/*link*/">
+				CLARK UNIVERSITY
+			</div>
+	</div>
+</body>
+</html>
