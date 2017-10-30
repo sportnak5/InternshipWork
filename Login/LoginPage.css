@@ -1,0 +1,201 @@
+body {
+	background: black;
+	background-image: url("Background%20photo.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	background-position: 50% 0%
+}
+
+.wrapDat {
+	margin: auto;
+	text-align: center;
+	position: relative;
+	top: 5vh;
+}
+
+.loginPage, .signUpPage {
+	color: white;
+	cursor: pointer;
+	font-family: Arial Narrow;
+	transform: scale(.75,1.25);
+	font-size: 7vmin;
+	word-spacing: 0.5vmin;
+	display: inline-block;
+	height: 100%;
+	margin-top: -.5vmin;
+	max-height: 15px;
+	max-width: 173px;
+	padding: 26px 32px;
+	position: relative;
+	text-align: center;
+	width: 25vmin;
+}
+
+.loginPage {
+	border-style: solid;
+	border-color: rgba(249,93,93,1);
+	border-width: 0px 0px 5px 0px;
+}
+
+.signUpPage:hover {
+	border: solid;
+	border-color: rgba(249,93,93,1);
+	border-width: 0px 0px 5px 0px;
+}
+/*------*/
+
+input{
+	border: none;
+}
+
+input:hover {
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	margin-bottom: -9px;
+	}
+
+input:focus {
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	outline: none;
+}
+
+input[placeholder] {
+	text-align: center;
+	font-size: 12pt;
+	color: rgba(137,137,137,1);
+}
+
+.loginTextboxes {
+	margin-top: 14vmin;
+}
+
+.loginInfo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: -0.5vmin;
+	margin-bottom: -0.5vmin;
+	height: 12vmin;
+	width: 80vmin;
+}
+
+.forgot{
+	/*border: solid;
+	border-color: rgba(249,93,93,1);
+	border-width: 0px 0px 3px 0px;*/
+	color:white;
+	cursor: pointer;
+	font-family: arial Narrow;
+	font: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 5vmin;
+	margin: auto;
+	margin-top: 1vmin;
+	/*padding: 1px 32px;*/
+	text-align: center;
+	text-decoration: underline;
+	transform: scale(.75, 1.25);
+	/*width: 25vmin;*/
+	word-spacing: 0.5vmin;
+}
+
+.or{
+	color: white;
+	text-align: center;
+	font-size: 10vmin;
+	font-family: Arial Narrow;
+	transform: scale(.75,1.25);
+	font-size: 5vmin;
+	word-spacing: 0.5vmin;
+	margin-top: 2vmin;
+	margin-bottom: 2vmin;
+}
+
+.facebook{
+	background-color: #3B5998;
+	border: none;
+	cursor: pointer;
+	color: #FFFFFF;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 16px;
+	height: 100%;
+	margin: auto;
+	margin-top: 2vmin;
+	max-height: 35px;
+	padding: 15px 32px;
+	text-align: center;
+	width: 63vmin;
+}
+
+.facebook:hover{
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	margin-bottom: -6px;
+}
+
+img {
+	height: 6vmin;
+	width: auto;
+	position: relative;
+	top: 1vmin;
+	right: 2vmin;
+}
+
+@media only screen and (min-width: 488px) {
+	.loginPage, .signUpPage {
+		font-size: 39px;
+		word-spacing: 2.44px;
+		display: inline-block;
+		margin-left: 15px;
+		margin-right: 15px;
+		padding:30px 32px;
+	}
+
+	.facebook{
+		width: 417px;
+		height: 58.56px;
+		line-height: 0px;
+		font-size: 25px;
+	}
+
+	.forgot{
+		font-size: 38px;
+		word-spacing: 2.44px;	
+	}
+
+	img {
+		height: 29.28px;
+		width: auto;
+		position: relative;
+		top: 4.88px;
+		right: 9.76px;
+	}
+
+	input[text]{
+		font-size: 25px;
+		line-height: 14px;
+	}
+
+	.loginInfo {
+		margin-top: -2.44px;
+		margin-bottom: -2.44px;
+		height: 58.56px;
+		width: 475px;
+	}
+
+	.loginTextboxes{
+		margin-top: 12vmin;
+	}
+
+	.or{
+		font-size: 48.8px;
+		font-size: 24.4px;
+		word-spacing: 2.44px;
+		margin-top: 9.76px;
+		margin-bottom: 9.76px;
+	}
+}
