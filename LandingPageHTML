@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>LandingPageNew</title>
+	<link href="LandingPageNew.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+	<div class = "sl">
+		Sign Up/ Login
+	</div>
+
+	<img class="logo" alt="Midtrade" src="LOGO%20Final%20(WHITE).png" >
+	<div class = "Midtrade">
+		MIDTRADE
+	</div>
+
+	<div class = "enter">
+		<input type = text placeholder="university .edu email">
+
+		<div class = go>
+			GO
+		</div>
+	</div>
+
+	<div class = "Skip">
+		skip and start exploring
+	</div>
+
+</body>
+</html>
