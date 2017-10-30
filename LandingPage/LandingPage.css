@@ -1,0 +1,185 @@
+body {
+	background: black;
+	background-image: url("Background%20photo.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 0%;
+}
+ 
+.logo {
+	width: 70%;
+	max-width: 350px;
+	height: auto;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	bottom: 13px;
+}
+ 
+.bouncer{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	line-height: 10%;
+	margin-top: 5.5px;
+	text-align: center;
+}
+
+.txt {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	line-height: 83%;
+	margin-top: 7.5vmin;
+	text-align: center;
+}
+
+.mid {
+	letter-spacing: .5vmin;
+	font-size: 9vmin;
+	margin-bottom: 1px;
+}
+
+.allOfIt {
+	letter-spacing: .4vmin;
+	margin-top: 0px;
+	font-size: 5.5vmin;
+	margin-bottom: 1px;
+}
+ 
+.bouncer {
+	margin-top: 0px;
+	font-size: 4vmin;
+	letter-spacing: .2vmin;
+}
+
+@media only screen and (min-width: 500px) {
+	.logo{
+		margin-top: 35px;
+	}
+
+	.mid {
+		font-size: 45px;
+	}
+
+	.allOfIt {
+		font-size: 30px;
+	}
+
+	.bouncer {
+		font-size: 18px;
+	}
+
+	.allbutton{
+		margin-top: 15vmin;
+	}
+}
+
+.allbutton {
+	margin: auto;
+	margin-top: 32vmin;
+	text-align: center;
+	width: cover;
+}
+
+.buttoncontainer{
+	margin: auto;
+	height: 100%;
+	max-height: 9px;
+	min-width: 304px;
+	text-align: center;
+	width: cover;
+}
+
+.buttonExplore {
+    background-color: #F95D5D; 
+    border: none;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 100%;
+    margin: auto;
+    max-height: 15px;
+    max-width: 427px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.buttonExplore:hover {
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	margin-bottom: -6px;
+}
+
+.buttonLogin{
+	background-color: #FFFFFF;
+	border: none;
+	color: #898989;
+	cursor: pointer;
+	display: inline-block;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 12px;
+	height: 100%;
+	margin-left: 1.4vmin;
+	margin-top: 15px;
+	max-height: 15px;
+	max-width: 173px;
+	padding: 15px 32px;
+	text-align: center;
+	width: 21.5vmin;
+}
+
+.buttonLogin:hover {
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	margin-left: 9px;
+	margin-top: -3px;
+}
+
+.buttonSignUp{
+	background-color: #FFFFFF;
+	border: none;
+	color: #898989;
+	cursor: pointer;
+	display: inline-block;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 12px;
+	height: 100%;
+	margin-top: 15px;
+	max-height: 15px;
+	max-width: 173px;
+	padding: 15px 32px;
+	position: relative;
+	text-align: center;
+	width: 21.5vmin;
+}
+
+.buttonSignUp:hover {
+	border-color: rgba(249,93,93,1);
+	border-width: 3px;
+	border-style: solid;
+	margin-right: -6px;
+	margin-top: -3px;
+}
+
+@media only screen and (min-width: 500px) {
+    .buttonExplore{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+    }
+
+    .buttonSignUp{
+    	height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+    }
+    .buttonLogin{
+    	height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+    }
+}
