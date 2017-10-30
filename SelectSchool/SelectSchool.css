@@ -1,0 +1,325 @@
+body {
+	background: black;
+	background-image: url("Background%20photo.jpeg");
+	background-position: 50% 0%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h3{
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.title{
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	font-size: 26px;
+	margin-top: 10vmin;
+	text-align: center;
+}
+
+.Auburn{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 6vmin;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Auburn:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Alabama{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Alabama:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Arizona{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Arizona:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.ArizonaState{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.ArizonaState:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Arkansas{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Arkansas:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Ball{
+	background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Ball:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Baylor{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Baylor:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.BYU{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.BYU:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.California{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.California:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+.Clark{
+    background-color: #FFFFFF; 
+    border: none;
+    color: #898989;
+    cursor: pointer;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 16px;
+    height: 2vmin;
+    margin: auto;
+    margin-top: 9px;
+    max-width: 425px;
+    padding: 15px 32px;
+    text-align: center;
+    width: 61vmin;
+}
+
+.Clark:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+    margin-bottom: -6px;
+}
+
+/*.Schools:hover {
+    border-color: rgba(249,93,93,1);
+    border-width: 3px;
+    border-style: solid;
+}*/
+
+@media only screen and (min-width: 500px) {
+    .title{
+        font-size: 30px;
+        margin-top: 50px;
+    }
+
+    .Auburn{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 45px;
+    }
+
+    .Alabama{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .Arizona{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .ArizonaState{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .Arkansas{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .Ball{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .Baylor{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .BYU{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .California{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+    .Clark{
+        height: 15px;
+        font-size: 25px;
+        line-height: 14px;
+        margin-top: 12px;
+    }
+}
